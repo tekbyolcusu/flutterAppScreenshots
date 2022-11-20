@@ -31,7 +31,7 @@ class _profileScreenState extends State<profileScreen> {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: <Widget>[
                 Text(
-                  'Ahmet KALAY',
+                  'Yiğit Balbaşı',
                   style: TextStyle(
                     fontFamily: 'Pacifico',
                     fontWeight: FontWeight.bold,
@@ -80,7 +80,7 @@ class _profileScreenState extends State<profileScreen> {
                       color: Colors.black,
                     ),
                     title: Text(
-                      'a.kalay0723@gmail.com',
+                      'yigitbalbasi@gmail.com',
                       style: TextStyle(
                         color: Colors.black,
                       ),

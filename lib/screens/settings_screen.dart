@@ -80,7 +80,7 @@ class SettingsScreen extends StatelessWidget {
                     "Account",
                   ),
                   subtitle: Text(
-                    "Ahmet Kalay",
+                    "Yiğit Balbaşı",
                     style: greyTExt,
                   ),
                   trailing: Icon(
